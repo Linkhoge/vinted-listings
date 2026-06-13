@@ -2343,13 +2343,13 @@
       ],
       "is_heavy_bulky": false,
       "brand": "Maison Margiela",
-      "size": "46",
+      "size": "47",
       "status": "Very good",
       "item_box": {
         "first_line": "Maison Margiela",
-        "second_line": "46 · Very good",
+        "second_line": "47 · Very good",
         "exposures": [],
-        "accessibility_label": "Maison Margiela GATs Black, brand: Maison Margiela, condition: Very good, size: 46, €320.00, €336.70 includes Buyer Protection",
+        "accessibility_label": "Maison Margiela GATs Black, brand: Maison Margiela, condition: Very good, size: 47, €320.00, €336.70 includes Buyer Protection",
         "item_id": 9006645877
       },
       "url": "https://www.vinted.ie/items/9006645877-maison-margiela-gats-black",
@@ -2986,7 +2986,7 @@
   {
     "id": 9006431260,
     "title": "3XL Balenciaga",
-    "price": "210.0",
+    "price": "190.0",
     "currency": "EUR",
     "url": "https://www.vinted.ie/items/9006431260-3xl-balenciaga",
     "image": null,
@@ -2996,7 +2996,7 @@
       "title": "3XL Balenciaga",
       "user_id": 3146447592,
       "price": {
-        "amount": "210.0",
+        "amount": "190.0",
         "currency_code": "EUR"
       },
       "currency": "EUR",
@@ -3073,11 +3073,11 @@
       "favourite_count": 1,
       "is_favourite": false,
       "service_fee": {
-        "amount": "11.2",
+        "amount": "10.2",
         "currency_code": "EUR"
       },
       "total_item_price": {
-        "amount": "221.2",
+        "amount": "200.2",
         "currency_code": "EUR"
       },
       "photos": [
@@ -3279,7 +3279,7 @@
         "first_line": "Balenciaga",
         "second_line": "46 · Good",
         "exposures": [],
-        "accessibility_label": "3XL Balenciaga, brand: Balenciaga, condition: Good, size: 46, €210.00, €221.20 includes Buyer Protection",
+        "accessibility_label": "3XL Balenciaga, brand: Balenciaga, condition: Good, size: 46, €190.00, €200.20 includes Buyer Protection",
         "item_id": 9006431260
       },
       "url": "https://www.vinted.ie/items/9006431260-3xl-balenciaga",
