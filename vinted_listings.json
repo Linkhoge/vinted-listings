@@ -1394,7 +1394,7 @@
       "transaction_permitted": true,
       "is_processing": false,
       "is_business_user": false,
-      "favourite_count": 2,
+      "favourite_count": 3,
       "is_favourite": false,
       "service_fee": {
         "amount": "3.95",
@@ -2140,7 +2140,7 @@
       "transaction_permitted": true,
       "is_processing": false,
       "is_business_user": false,
-      "favourite_count": 3,
+      "favourite_count": 4,
       "is_favourite": false,
       "service_fee": {
         "amount": "2.45",
