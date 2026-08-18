@@ -358,6 +358,7 @@
         "first_line": "Nike",
         "second_line": "50 · Good",
         "exposures": [],
+        "ff_exposures": [],
         "accessibility_label": "Nike V2K Run, brand: Nike, condition: Good, size: 50, €40.00, €42.70 includes Buyer Protection",
         "item_id": 9307948464
       },
@@ -731,6 +732,7 @@
         "first_line": "Saint Laurent",
         "second_line": "L · Very good",
         "exposures": [],
+        "ff_exposures": [],
         "accessibility_label": "Saint Laurent “Bloodluster” Tee, brand: Saint Laurent, condition: Very good, size: L, €200.00, €210.70 includes Buyer Protection",
         "item_id": 9027404549
       },
@@ -1230,6 +1232,7 @@
         "first_line": "Balenciaga",
         "second_line": "XS · Very good",
         "exposures": [],
+        "ff_exposures": [],
         "accessibility_label": "Balenciaga x Adidas Track Pants, brand: Balenciaga, condition: Very good, size: XS, €220.00, €231.70 includes Buyer Protection",
         "item_id": 9023110114
       },
@@ -1666,6 +1669,7 @@
         "first_line": "Dior",
         "second_line": "W29 · Very good",
         "exposures": [],
+        "ff_exposures": [],
         "accessibility_label": "AW05 Dior Homme Black Luster, brand: Dior, condition: Very good, size: W29, €1,250.00, €1,313.20 includes Buyer Protection",
         "item_id": 9023104990
       },
@@ -2039,6 +2043,7 @@
         "first_line": "Gucci",
         "second_line": "XXL · Very good",
         "exposures": [],
+        "ff_exposures": [],
         "accessibility_label": "Gucci Striped Bee Embroidered Tee, brand: Gucci, condition: Very good, size: XXL, €40.00, €42.70 includes Buyer Protection",
         "item_id": 9012302607
       },
@@ -2412,6 +2417,7 @@
         "first_line": "Loewe",
         "second_line": "L · New without tags",
         "exposures": [],
+        "ff_exposures": [],
         "accessibility_label": "Loewe Puzzle Denim Jeans, brand: Loewe, condition: New without tags, size: L, €600.00, €630.70 includes Buyer Protection",
         "item_id": 9007061638
       },
@@ -2659,6 +2665,7 @@
         "first_line": "Hello Kitty Tee",
         "second_line": "L · New without tags",
         "exposures": [],
+        "ff_exposures": [],
         "accessibility_label": "Hello Kitty Tee, condition: New without tags, size: L, €35.00, €37.45 includes Buyer Protection",
         "item_id": 9006583115
       },
@@ -3032,6 +3039,7 @@
         "first_line": "craig morisson",
         "second_line": "Very good",
         "exposures": [],
+        "ff_exposures": [],
         "accessibility_label": "Craig Morrison Superspike DJ Messenger Bag, brand: craig morisson, condition: Very good, €790.00, €830.20 includes Buyer Protection",
         "item_id": 9006543494
       },
@@ -3594,6 +3602,7 @@
         "first_line": "Balenciaga",
         "second_line": "S · Very good",
         "exposures": [],
+        "ff_exposures": [],
         "accessibility_label": "Balenciaga Soccer sweatpants, brand: Balenciaga, condition: Very good, size: S, €400.00, €420.70 includes Buyer Protection",
         "item_id": 9006299724
       },
